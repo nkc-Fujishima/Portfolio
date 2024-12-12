@@ -1,0 +1,71 @@
+モデルアセット-------------------------------------------------------------------------------------------
+　5 animated Voxel animals
+　URL：https://assetstore.unity.com/packages/3d/characters/animals/5-animated-voxel-animals-145754
+
+　Voxel Character Collection!
+　URL：https://assetstore.unity.com/packages/3d/characters/voxel-character-collection-73842
+
+　Voxel Environments 1
+　URL：https://assetstore.unity.com/packages/3d/environments/fantasy/voxel-environments-1-152920
+
+　Voxel RPG Weapons
+　https://j8chi.itch.io/voxel-rpg-weapons
+
+
+スカイボックスアセット-----------------------------------------------------------------------------------
+　Farland Skies - Cloudy Crown
+　URL：https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004
+
+
+エフェクトアセット---------------------------------------------------------------------------------------
+　Cartoon FX Remaster Free
+　https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-free-109565
+
+　Hyper Casual FX
+　https://assetstore.unity.com/packages/vfx/particles/hyper-casual-fx-200333
+
+　Fancy Footsteps
+　https://assetstore.unity.com/packages/vfx/particles/fancy-footsteps-201948
+
+　ローポリファイアー
+　https://assetstore.unity.com/packages/vfx/particles/fire-explosions/low-poly-fire-244190
+
+
+効果音アセット-------------------------------------------------------------------------------------------
+　OtoLogic
+　https://otologic.jp/
+
+　効果音ラボ
+　https://soundeffect-lab.info/
+
+　Menu Sounds V2
+　https://noahkuehne.itch.io/free-menu-sound-pack-ui-sounds-v2
+
+　Springin’ Sound Stock
+　https://www.springin.org/sound-stock/
+
+
+BGMアセット----------------------------------------------------------------------------------------------
+　Casual Game BGM Pack #5
+　https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943
+
+　ArcadeGameBGM#17
+　https://assetstore.unity.com/packages/audio/music/arcade-game-bgm-17-210775?locale=ja-JP&srsltid=AfmBOorTt2kLlPmA01asOVEbveJDlDcdNaAC1DAtD5ZlY94oxw_ZwKAv
+
+
+エディタアセット------------------------------------------------------------------------------------------
+　EditorGUISplitView
+　https://github.com/miguel12345/EditorGUISplitView
+
+お借りしたフォント----------------------------------------------------------------------------------------
+　Input Prompts
+　https://kenney.nl/assets/input-prompts
+
+　ベイパーピクセル｜VaporPixel｜ゆうたONEフォント™︎
+　https://booth.pm/ja/items/3060058
+　こちらはチームメンバー全員　X(旧Twitter)アカウント@yuta_ptv様をフォローしております
+
+　851letrogo_007
+　https://pm85122.onamae.jp/851letrogopage.html
+
+
